@@ -1,0 +1,43 @@
+
+
+.imag {
+width: 450px;
+height: 450px;
+}
+.imgGif{
+width: 500px;
+height: 500px;
+text-align: center !important;
+}
+.menu { 
+    position:fixed; 
+    margin-top: -70;
+}
+.hi{
+text-align: center;
+margin-top: 80px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    width: 100%;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
